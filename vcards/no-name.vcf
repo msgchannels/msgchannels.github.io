@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.14.6//EN
+N:;;Twilio;;
+EMAIL;type=INTERNET;type=WORK;type=pref:info@twilio.com
+EMAIL;type=INTERNET;type=HOME:malcaide@twilio.com
+TEL;type=CELL;type=VOICE;type=pref:14155238886
+ADR;type=WORK;type=pref:;;375 Beale St Ste 300;San Francisco;CA;94105;USA
+URL;type=WORK;type=pref:https://www.twilio.com/
+item1.URL:https://www.twilio.com/docs/static/company/img/logos/red/twilio-logo-red.78b73b6af.png
+item1.X-ABLabel:media
+BDAY:1999-04-20
+X-ABShowAs:COMPANY
+X-ABUID:2317E647-B41E-454C-946F-A60AF1B43EA5:ABPerson
+END:VCARD
