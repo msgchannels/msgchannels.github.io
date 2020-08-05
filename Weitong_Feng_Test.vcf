@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:3.0
-PRODID:-//Apple Inc.//Mac OS X 10.15.6//EN
-N:Feng;Weitong;;;
-FN:Weitong Feng
-TEL;type=CELL;type=VOICE;type=pref:1234567789
-ADR;type=HOME;type=pref:;;123 Test Street;San Francisco\, CA 94107;;;US
-END:VCARD
